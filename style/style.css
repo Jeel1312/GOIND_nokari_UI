@@ -1,41 +1,45 @@
-body{
+body {
     margin: 0%;
     padding: 0%;
     font-family: sans-serif;
 }
-.navbar{
+
+.navbar {
     padding: 1px;
     background-color: rgb(219, 219, 219);
 }
 
-.goind{ color:  rgb(0, 89, 144);
+.goind {
+    color: rgb(0, 89, 144);
     display: inline-block;
     font-size: 28px;
-    margin:5px 20px;
+    margin: 5px 20px;
 }
 
-.menu{
+.menu {
     display: inline-block;
 }
 
-ul{
+ul {
     font-size: 16px;
     margin-left: 320px;
 }
 
-ul li , ul li a{
+ul li,
+ul li a {
     display: inline-block;
     color: black;
     margin-left: 5px;
     list-style: none;
     text-decoration: none;
 }
-a{
+
+a {
     text-decoration: none;
-    color:  rgb(0, 98, 159);
+    color: rgb(0, 98, 159);
 }
 
-header button{
+header button {
     margin-left: 300px;
     background-color: rgb(219, 219, 219);
     font-size: 16px;
@@ -43,7 +47,7 @@ header button{
     border: none;
 }
 
-.searchjob{
+.searchjob {
     width: 100%;
     height: 470px;
     background-image: url(/img/business-people-casual-meeting.jpg);
@@ -53,18 +57,20 @@ header button{
     color: white;
 }
 
-.headline{
+.headline {
     font-size: 50px;
     margin: auto;
     padding-top: 70px;
 }
-.search{
+
+.search {
     margin: 35px;
     border-radius: 21px;
     display: inline-block;
     background-color: white;
 }
-#search{
+
+#search {
     width: 300px;
     border-radius: 20px 0px 0px 20px;
     border: none;
@@ -72,116 +78,126 @@ header button{
     font-size: 14px;
     padding: 15px;
 }
-#subscribe{
-    width : 130px;
+
+#subscribe {
+    width: 130px;
     color: white;
-    background-color:  rgb(0, 102, 165);
+    background-color: rgb(0, 102, 165);
     border-radius: 0px 20px 20px 0px;
     padding: 15px;
-    font-size: 14px ;
+    font-size: 14px;
     border: none;
     margin: 0%;
 }
 
-.discover{
+.discover {
     margin-top: 45px;
     font-size: 14px;
     padding: 15px;
     border: none;
-    background-color:  rgb(0, 102, 165);
+    background-color: rgb(0, 102, 165);
     color: white;
     width: 160px;
 }
 
-.apply{
+.apply {
     margin-top: 45px;
     padding: 12px;
     border: none;
-    background-color:  rgb(0, 102, 165);
+    background-color: rgb(0, 102, 165);
     color: white;
     width: 120px;
 }
 
-img{
+img {
     width: 550px;
     height: 350px;
 }
 
-.mar{
+.mar {
     padding: 2% 10%;
     display: block;
 }
-.marketing{
+
+.marketing {
     margin-top: 70px;
     width: 40%;
     display: inline-block;
 }
-.one{
+
+.one {
     float: right;
 }
 
 
-.indu{
+.indu {
     padding: 1% 10%;
     display: block;
 }
-.industrial{
+
+.industrial {
     margin-left: 10%;
     margin-top: 70px;
     width: 40%;
     display: inline-block;
 }
-.two{
+
+.two {
     float: left;
 }
 
-.corp{
+.corp {
     padding: 1% 10%;
     display: block;
 }
-.corporate{
+
+.corporate {
     margin-top: 70px;
     width: 40%;
     display: inline-block;
 }
-.three{
+
+.three {
     float: right;
 }
 
-.IT{
+.IT {
     padding: 1% 10%;
     display: block;
 }
-.it{
+
+.it {
     margin-left: 10%;
     margin-top: 70px;
     width: 40%;
     display: inline-block;
 }
-.four{
+
+.four {
     float: left;
 }
 
-.subscribe{
+.subscribe {
     color: white;
-    background-color:  rgb(0, 102, 165);
+    background-color: rgb(0, 102, 165);
     padding: 0% 12%;
     height: 240px;
 }
-h3{
+
+h3 {
     padding-top: 30px;
-    padding-bottom: 15px ;
+    padding-bottom: 15px;
     font-size: 20px;
 }
 
-.email{
+.email {
     margin-top: 20px;
     background-color: white;
     display: inline-block;
     border-radius: 15px;
 }
 
-#email{
+#email {
     width: 500px;
     border-radius: 20px 0px 0px 20px;
     border: none;
@@ -189,10 +205,11 @@ h3{
     padding: 10px;
     font-size: 14px;
 }
-#subscri{
-    width : 200px;
+
+#subscri {
+    width: 200px;
     color: white;
-    background-color:  rgb(0, 102, 165);
+    background-color: rgb(0, 102, 165);
     border-radius: 16px;
     padding: 8px;
     border: none;
